@@ -1,4 +1,4 @@
-# Climate Data Query and Analysis
+# Flask API - Climate Data Query and Analysis
 - Reflected a SQLite climate database (SQLAlchemy ORM queries)
 - Analyzed and visualized climate temperature and precipitation data (Pandas, Matplotlib)
 - Designed a Flask API with multiple routes
